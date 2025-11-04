@@ -22,5 +22,16 @@ HTML5 • CSS3 • Bootstrap 5.3.8
 
 1. **built with draw.io**
 2. <img width="800" heigth="1100" src="Photos/Project1.Index.png">
-3. <img width="800" heigth="1100" src="Photos/Project1.Contact.png">
-4. <img width="800" heigth="1100" src="Photos/Project1.About Me.png">
+3. <img width="800" heigth="1100" src="Photos/Project1.About Me.png">
+4. <img width="800" heigth="1100" src="Photos/Project1.Contact.png">
+
+
+## Snapshots
+
+<p align="center">
+    <img src="Photos/Home.png" alt="" width="800">
+    <img src="Photos/About.png" alt="" width="800">
+    <img src="Photos/Contact.png" alt="" width="800">
+</p>
+
+## User Story
