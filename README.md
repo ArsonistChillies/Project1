@@ -18,3 +18,9 @@ HTML5 • CSS3 • Bootstrap 5.3.8
 1. Add a page that lets people know all the random facts I know
 2. Add theme toggle with persisted preference.
 
+## WireFrame
+
+1. **built with draw.io**
+2. <img width="800" heigth="1100" src="Photos/Project1.Index.png">
+3. <img width="800" heigth="1100" src="Photos/Project1.Contact.png">
+4. <img width="800" heigth="1100" src="Photos/Project1.About Me.png">
